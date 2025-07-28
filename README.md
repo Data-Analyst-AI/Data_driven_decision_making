@@ -6,6 +6,8 @@ Project focused on prioritizing marketing hypotheses and analyzing an A/B test f
 - Hypothesis Prioritization (using ICE/RICE frameworks)  
 - Results Analysis (visualizations, statistics, and final decision-making)
 
+---
+
 ### Análisis de Hipótesis y Test A/B para Aumento de Ingresos en Tienda Online
 
 Descripción
