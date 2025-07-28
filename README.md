@@ -1,6 +1,14 @@
-# Análisis de Hipótesis y Test A/B para Aumento de Ingresos en Tienda Online
+# 📊 Hypothesis Analysis and A/B Testing for Revenue Growth in E-commerce
 
-## Descripción
+## 🔍Description  
+Project focused on prioritizing marketing hypotheses and analyzing an A/B test for an online store to boost revenue. It includes two key phases:  
+
+- Hypothesis Prioritization (using ICE/RICE frameworks)  
+- Results Analysis (visualizations, statistics, and final decision-making)
+
+### Análisis de Hipótesis y Test A/B para Aumento de Ingresos en Tienda Online
+
+Descripción
 
 Proyecto para priorizar hipótesis de marketing y analizar un test A/B en una tienda online, con el fin de aumentar ingresos. Dividido en: priorización (ICE/RICE) y análisis de resultados (gráficos, estadísticas, decisión final).
 
